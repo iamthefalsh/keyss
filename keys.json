@@ -1,15 +1,15 @@
 {
   "keys": {
-    "PATI-1234": {
+    "VIP-12345": {
       "duration": 3600,
       "meta": "vip"
     },
-    "PATI-5678": {
-      "duration": 7200,
-      "meta": "normal"
+    "TRIAL-54321": {
+      "duration": 600,
+      "meta": "trial"
     },
-    "PATI-929223": {
-      "duration": 1,
+    "NORMAL-77777": {
+      "duration": 10800,
       "meta": "normal"
     }
   }
