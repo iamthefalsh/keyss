@@ -2,5 +2,6 @@
   "keys": {
     "PATI-123": { "duration": 3600, "meta": "vip" },
     "PATI-456": { "duration": 10, "meta": "teste" }
+    "PATI-9292": { "duration": 3, "meta": "teste" }
   }
 }
