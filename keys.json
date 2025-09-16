@@ -1,12 +1,6 @@
 {
   "keys": {
-    "PATI-123456": {
-      "expiry": 1758000000,
-      "meta": "vip"
-    },
-    "PATI-654321": {
-      "expiry": 1759000000,
-      "meta": "normal"
-    }
+    "PATI-123": { "duration": 3600, "meta": "vip" },
+    "PATI-456": { "duration": 10, "meta": "teste" }
   }
 }
