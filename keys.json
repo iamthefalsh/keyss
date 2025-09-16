@@ -1,7 +1,16 @@
 {
   "keys": {
-    "PATI-123": { "duration": 3600, "meta": "vip" },
-    "PATI-456": { "duration": 10, "meta": "teste" }
-    "PATI-9292": { "duration": 3, "meta": "teste" }
+    "PATI-1234": {
+      "duration": 3600,
+      "meta": "vip"
+    },
+    "PATI-5678": {
+      "duration": 7200,
+      "meta": "normal"
+    },
+    "PATI-929223": {
+      "duration": 1,
+      "meta": "normal"
+    }
   }
 }
