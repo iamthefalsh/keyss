@@ -16,6 +16,12 @@
       "duration": 3600,
       "meta": "VIP",
       "owner": "1282733153202606194"
+    },
+    "PATINZERAHUB-0902": {
+      "duration": 86400,
+      "meta": "TEST",
+      "owner": "1282733153202606194",
+      "expiresAt": 1758163990085
     }
   }
 }
