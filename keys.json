@@ -22,6 +22,12 @@
       "meta": "TEST",
       "owner": "1282733153202606194",
       "expiresAt": 1758163990085
+    },
+    "OFCPH-001": {
+      "duration": 2592000,
+      "meta": "OFFICIAL",
+      "owner": "1282733153202606194",
+      "expiresAt": 1760670230182
     }
   }
 }
