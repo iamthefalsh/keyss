@@ -11,6 +11,11 @@
     "NORMAL-77777": {
       "duration": 10800,
       "meta": "normal"
+    },
+    "teste2223": {
+      "duration": 3600,
+      "meta": "VIP",
+      "owner": "1282733153202606194"
     }
   }
 }
