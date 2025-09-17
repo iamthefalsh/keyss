@@ -28,6 +28,12 @@
       "meta": "OFFICIAL",
       "owner": "1282733153202606194",
       "expiresAt": 1760670230182
+    },
+    "PRCRIA-02": {
+      "duration": 2592000,
+      "meta": "PARCERIA",
+      "owner": "1282733153202606194",
+      "expiresAt": 1760712424536
     }
   }
 }
